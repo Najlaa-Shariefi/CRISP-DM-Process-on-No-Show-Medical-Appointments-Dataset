@@ -4,7 +4,6 @@ This project is my implementation of the "CRISP-DM Process" to create a Github p
 ## Installation 
 #### - Python version: 3.7.1
 #### - Libraries used:
-**The following Packages and Libraries will be imported to facilitate the Investigation and increase its efficiency:**
 - **Pandas:** Provides data structures designed to make working with “relational” or “labeled” data both intuitive and easy.
 - **Numpy:** Provides functions to manipulate large sets of numerical data with effeciency and speed.
 - **Matplotlib:**  Produces publication quality figures in a variety of hardcopy formats and interactive environments across platforms with just a few lines of code.
