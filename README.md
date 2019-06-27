@@ -30,13 +30,13 @@ The dataset that used on this project ,**"No-Show" Appointments Dataset,is a set
 
 
 ## Files Descriptions 
-- README.md: Documentation of analysis and insights into final data.
-- Applying CRISP-DM Process.ipynb: The Code written to apply the CRISP-DM Process on the dataset.
--	Applying CRISP-DM Process.html: The html version of the code file.
--	no-show-appointments.csv: the original dataset (Resource: Kaggle).
+- **README.md:** Documentation of analysis and insights into final data.
+- **Applying CRISP-DM Process.ipynb:** The Code written to apply the CRISP-DM Process on the dataset.
+-	**Applying CRISP-DM Process.html:** The html version of the code file.
+-	**no-show-appointments.csv:** the original dataset (Resource: Kaggle).
 
 ## Interacting with the project
-You can check the insights and visualizations used to answer the Questions of interest ported above on [this Blog](link here). 
+Kindly check the insights and visualizations used to answer the Questions of interest ported above on [this Blog](link here). 
 
 ## Licensing, Authors, Acknowledgements 
 None
