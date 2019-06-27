@@ -2,8 +2,8 @@
 This project is my implementation of the "CRISP-DM Process" to create a Github post and a blog. 
 
 ## Installation 
-#### Python version: 3.7.1
-#### Libraries used:
+#### - Python version: 3.7.1
+#### - Libraries used:
 - Pandas
 -	Numpy
 -	Matplotlib
