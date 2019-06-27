@@ -4,10 +4,12 @@ This project is my implementation of the "CRISP-DM Process" to create a Github p
 ## Installation 
 #### - Python version: 3.7.1
 #### - Libraries used:
-- Pandas
--	Numpy
--	Matplotlib
--	DateTime
+**The following Packages and Libraries will be imported to facilitate the Investigation and increase its efficiency:**
+- **Pandas:** Provides data structures designed to make working with “relational” or “labeled” data both intuitive and easy.
+- **Numpy:** Provides functions to manipulate large sets of numerical data with effeciency and speed.
+- **Matplotlib:**  Produces publication quality figures in a variety of hardcopy formats and interactive environments across platforms with just a few lines of code.
+- **Datetime Class from Datetime:** Allows manipulating dates and times in both simple and complex ways. 
+
 
 ## Project Motivation
 This project is my implementation of the "CRISP-DM Process" to create a blog and a Github post to show off my skills in the Data Mining and Analysis as part of the graduation requirements of Udacity's [Data Scientist Nanodegree](https://www.udacity.com/course/data-scientist-nanodegree--nd025) certification.
