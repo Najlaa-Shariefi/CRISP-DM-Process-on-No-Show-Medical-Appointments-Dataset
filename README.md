@@ -37,7 +37,7 @@ The dataset that used on this project ,**"No-Show" Appointments Dataset,is a set
 -	**no-show-appointments.csv:** the original dataset (Resource: Kaggle).
 
 ## Interacting with the project
-Kindly check the insights and visualizations used to answer the Questions of interest ported above on [this Blog](link here). 
+Kindly check the insights and visualizations used to answer the Questions of interest ported above on [this Blog](https://medium.com/@najlaa.shariefi/why-do-30-of-patients-miss-their-scheduled-appointments-ec9425b8ef72). 
 
 ## Licensing, Authors, Acknowledgements 
 None
